@@ -1,0 +1,3 @@
+English Text Length: 4999998
+English Letter Entropy: 4.1610 bits
+English Word Entropy: 10.4583 bits

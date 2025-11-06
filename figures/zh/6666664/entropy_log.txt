@@ -1,0 +1,3 @@
+Chinese Text Length: 6666664
+Chinese Character Entropy: 9.4426 bits
+Chinese Word Entropy: 11.5958 bits
